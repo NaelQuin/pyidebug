@@ -1,0 +1,8 @@
+LICENSE
+README.md
+setup.py
+pydebug/__init__.py
+pydebug.egg-info/PKG-INFO
+pydebug.egg-info/SOURCES.txt
+pydebug.egg-info/dependency_links.txt
+pydebug.egg-info/top_level.txt
