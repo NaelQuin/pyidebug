@@ -54,6 +54,6 @@ def debug(globals, locals=None, title=None):
 
 def showInfo(info: str) -> (None):
     """Show the info with delimiters in screen"""
-    delimiter = len(message)*"="
-    print(delimiter, message, delimiter, sep='\n')
+    delimiter = len(info)*"="
+    print(delimiter, info, delimiter, sep='\n')
     return None
